@@ -22,7 +22,9 @@ prestige
 
 opportunities
 
-cost
+cost and financial aid
+
+facilities: labs
 
 ## how to write college essays: personal statement + supplementals
 
